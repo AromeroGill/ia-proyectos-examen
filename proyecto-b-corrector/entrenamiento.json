@@ -1,0 +1,72 @@
+{
+  "corporativo": [
+    {
+      "entrada": "hola, te escribo pq necesito la factura del mes pasado, mandamela cuanto antes xfa.",
+      "salida": "Estimado/a [Nombre],\n\nLe escribo para solicitar la factura correspondiente al mes pasado. Le agradecería que pudiera hacérmela llegar a la mayor brevedad posible.\n\nQuedo a la espera de su respuesta.\n\nUn cordial saludo."
+    },
+    {
+      "entrada": "oye q hay con el pedido?? llevo 2 semanas esperando y nada",
+      "salida": "Estimado/a [Nombre],\n\nMe dirijo a usted para consultar el estado del pedido realizado hace dos semanas, del cual aún no he recibido confirmación de envío. Le agradecería que pudiera proporcionarme información actualizada al respecto.\n\nQuedo a la espera de sus noticias.\n\nUn cordial saludo."
+    },
+    {
+      "entrada": "buenos dias, podrias enviarme info de los precios actualizados de vuestros servicios?",
+      "salida": "Estimado/a [Nombre],\n\nBuenos días. Me pongo en contacto con usted para solicitar información actualizada sobre los precios de los servicios que ofrecen.\n\nLe agradezco de antemano su atención y quedo a la espera de su respuesta.\n\nUn cordial saludo."
+    }
+  ],
+  "tecnico": [
+    {
+      "entrada": "oye no me funciona la app, da error cuando le doy a guardar",
+      "salida": "Hola,\n\nReporto el siguiente problema:\n\n**Descripción**: La aplicación lanza un error al pulsar el botón \"Guardar\".\n**Pasos para reproducir**:\n1. Acceder al formulario\n2. Cumplimentar los campos\n3. Pulsar \"Guardar\"\n\n**Resultado esperado**: Los datos deberían persistirse correctamente.\n**Resultado obtenido**: Aparece un error genérico sin más información.\n\n¿Podrías indicarme si necesitas logs adicionales para diagnosticar?\n\nGracias."
+    },
+    {
+      "entrada": "necesito que me deis acceso al servidor de produccion para mirar una cosa",
+      "salida": "Hola,\n\nSolicito acceso temporal al servidor de producción para una tarea concreta:\n\n**Motivo**: Diagnóstico de una incidencia reportada por el cliente.\n**Acceso requerido**: Lectura sobre logs y métricas.\n**Duración estimada**: 1-2 horas durante la próxima ventana de mantenimiento.\n\nQuedo atento a la confirmación y a las credenciales temporales.\n\nGracias."
+    },
+    {
+      "entrada": "hay un bug en la pagina de login, mira a ver",
+      "salida": "Hola,\n\nReporto un bug en la página de login:\n\n**Entorno**: Producción\n**Navegador**: (indicar versión)\n**Descripción**: (detalle del comportamiento incorrecto)\n**Pasos para reproducir**: (1, 2, 3...)\n**Severidad**: A determinar tras la reproducción.\n\nAdjuntaré capturas y logs en cuanto reproduzca el escenario.\n\nGracias."
+    }
+  ],
+  "comercial": [
+    {
+      "entrada": "hola, te llamo del otro dia, quieres comprar mi producto?",
+      "salida": "¡Hola [Nombre]!\n\nRetomo el contacto tras nuestra conversación del otro día. Me quedé con muchas ganas de profundizar en cómo nuestra solución puede ayudarte a [beneficio concreto].\n\n¿Te vendría bien una llamada de 15 minutos esta semana para enseñarte un par de casos similares al tuyo? Me adapto a tu agenda.\n\nUn saludo."
+    },
+    {
+      "entrada": "te mando el presupuesto que me pediste, son 3000 euros",
+      "salida": "¡Hola [Nombre]!\n\nTal como acordamos, te adjunto el presupuesto personalizado con la propuesta para tu proyecto.\n\nEl precio total es de 3.000 €, e incluye [puntos clave del servicio]. Creo que es una propuesta muy ajustada a lo que comentamos y a tus objetivos.\n\nQuedo atento a cualquier duda o ajuste que necesites. Un saludo."
+    },
+    {
+      "entrada": "buenas, hace tiempo que no nos vemos, queria ver si seguias interesado",
+      "salida": "¡Hola [Nombre]!\n\n¿Cómo va todo? Hacía tiempo que no hablábamos y quería retomar el contacto. La última vez comentamos [tema] y, desde entonces, hemos lanzado novedades que creo que te pueden interesar especialmente.\n\n¿Te apetece una breve videollamada para ponernos al día? Tengo disponibilidad esta semana.\n\nUn saludo."
+    }
+  ],
+  "academico": [
+    {
+      "entrada": "hola profe, no he podido entregar el trabajo, podria entregarlo mañana?",
+      "salida": "Estimado/a Profesor/a [Apellido],\n\nMe dirijo a usted para informarle de que, por motivos personales, no he podido entregar el trabajo en el plazo establecido. Le ruego, si fuera posible, considerar una prórroga de un día para realizar la entrega.\n\nLamento las molestias que esto pueda ocasionar y le agradezco de antemano su comprensión.\n\nReciba un cordial saludo,\n[Nombre y apellidos]\n[Asignatura / curso]"
+    },
+    {
+      "entrada": "queria preguntar si me puede revisar el tfg cuando pueda",
+      "salida": "Estimado/a Profesor/a [Apellido],\n\nLe escribo para solicitar su revisión del borrador del Trabajo de Fin de Grado en el que estoy trabajando bajo su tutela. He adjuntado el documento actualizado con los cambios sugeridos en nuestra última reunión.\n\nQuedo a su disposición para concertar una tutoría en el momento que considere oportuno.\n\nReciba un cordial saludo,\n[Nombre y apellidos]"
+    },
+    {
+      "entrada": "hola, no entendí lo del examen y queria preguntar dudas",
+      "salida": "Estimado/a Profesor/a [Apellido],\n\nMe pongo en contacto con usted en relación con el contenido del próximo examen, ya que me han surgido algunas dudas que me gustaría poder consultar antes de la prueba.\n\n¿Sería posible concertar una breve tutoría, presencial o virtual, en el horario que mejor le venga?\n\nLe agradezco su atención y reciba un cordial saludo,\n[Nombre y apellidos]"
+    }
+  ],
+  "informal": [
+    {
+      "entrada": "oye necesito que me ayudes con una cosa del proyecto cuando puedas",
+      "salida": "¡Hola!\n\nCuando tengas un rato, ¿me echas una mano con una cosilla del proyecto? Nada urgente, es para revisar un par de detalles juntos.\n\nDime cuándo te va bien y nos cuadramos.\n\nGracias 🙌"
+    },
+    {
+      "entrada": "no voy a poder ir mañana a la reunion, lo siento",
+      "salida": "¡Hola equipo!\n\nOs aviso de que mañana no voy a poder estar en la reunión. Si grabáis o tomáis notas, lo agradezco mucho y me pongo al día en cuanto pueda.\n\nCualquier cosa importante que necesitéis de mí, decidme y lo veo cuanto antes.\n\n¡Gracias!"
+    },
+    {
+      "entrada": "vale me parece bien lo que has propuesto, hagamoslo asi",
+      "salida": "¡Hola!\n\nMe parece bien tu propuesta, vamos con ese enfoque. Si te parece, lo dejamos cerrado así y vamos avanzando.\n\nCualquier cosa que surja por el camino, lo hablamos.\n\n¡Gracias!"
+    }
+  ]
+}
