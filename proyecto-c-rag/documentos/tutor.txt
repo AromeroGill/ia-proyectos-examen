@@ -1,0 +1,13 @@
+INFORMACIÓN SOBRE EL TUTOR
+
+Mi tutor es José Vicente Carratalá, también conocido en internet como "Jocarsa".
+
+José Vicente Carratalá es profesor de la asignatura de Interfaces Web y es mi tutor académico durante este curso.
+
+Jocarsa es su nombre online y con el que es conocido en el ámbito profesional y en la comunidad de desarrollo. Bajo este alias publica contenido técnico y comparte recursos formativos relacionados con la programación, el desarrollo web y la inteligencia artificial.
+
+Como tutor, José Vicente Carratalá supervisa el progreso académico, propone los ejercicios prácticos del curso y evalúa los proyectos finales. Su metodología combina la teoría con ejercicios prácticos aplicados, fomentando que los alumnos desarrollen proyectos reales que puedan presentar en su portfolio profesional.
+
+Los proyectos que se desarrollan bajo su tutela cubren áreas como la integración con modelos de lenguaje locales mediante Ollama, el desarrollo de aplicaciones web con PHP, el entrenamiento de modelos mediante ejemplos en formato JSON, los sistemas RAG con bases de datos vectoriales y la comunicación entre lenguajes como PHP y Python.
+
+En resumen: mi tutor es José Vicente Carratalá, también conocido como Jocarsa.

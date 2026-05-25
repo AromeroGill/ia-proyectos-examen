@@ -1,0 +1,6 @@
+La empresa Innovatech fue fundada en 2018 en Valencia por María García y Pedro López.
+Se especializa en soluciones de inteligencia artificial para el sector logístico.
+Actualmente cuenta con 45 empleados y oficinas en Valencia y Madrid.
+Su producto estrella es LogiAI, una plataforma que optimiza rutas de reparto mediante machine learning.
+En 2024 facturaron 3.2 millones de euros y planean expandirse a Portugal en 2025.
+El CEO es Pedro López y la CTO es María García.
