@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores
+.vscode/
+.idea/
+
+# Configuración local con secretos
+.env
+*.local.php
+
+# Bases de datos vectoriales
+proyecto-c-rag/chroma_db/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
