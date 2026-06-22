@@ -1,4 +1,4 @@
-# Proyectos IA — Examen Final
+# Proyectos IA
 
 Tres proyectos que cubren los 7 ejercicios del módulo de Inteligencia Artificial, agrupados de forma temática.
 
